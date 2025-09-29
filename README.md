@@ -22,7 +22,7 @@
 ---
 
 📫 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iqbal-hingorjo-aab10536a/)
 - 🌐 [Portfolio Website](https://hingorjo.github.io/)
 - 📧 Email: hingorjoiqbal123@gmail.com 
 
