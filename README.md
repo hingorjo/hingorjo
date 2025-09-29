@@ -22,8 +22,8 @@
 ---
 
 📫 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/) _(add your link)_  
-- 🌐 [Portfolio Website](https://hingorjo.github.io/) _(if you want a main one)_  
+- 💼 [LinkedIn](https://linkedin.com/)
+- 🌐 [Portfolio Website](https://hingorjo.github.io/)
 - 📧 Email: hingorjoiqbal123@gmail.com 
 
 ---
